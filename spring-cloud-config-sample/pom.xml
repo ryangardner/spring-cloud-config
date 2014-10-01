@@ -7,7 +7,11 @@
     <packaging>jar</packaging>
 
 	<name>spring-cloud-config-sample</name>
-	<description>sample client application</description>
+	<description>
+		<![CDATA[
+      This project demonstates how to access a spring-cloud-config server as a client in a simple applicaiton.
+    ]]>
+	</description>
 
 	<parent>
 		<groupId>org.springframework.cloud</groupId>
